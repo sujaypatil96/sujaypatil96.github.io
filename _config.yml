@@ -9,7 +9,7 @@ name: Anxiety Annals
 description: Chronicles of an Anxious Mind
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/aa_logo
+avatar: https://raw.githubusercontent.com/sujaypatil96/sujaypatil96.github.io/master/images/aa_logo.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: sujaypatil96/sujaypatil96.github.io
+  github: sujaypatil96
   instagram:
   linkedin:
   pinterest:
